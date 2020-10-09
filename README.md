@@ -3,4 +3,6 @@ Our Project is a chat system which utilises intranet connectivity between two te
 
 Moreover, each chat is also stored as separate text files for future reference in a chronological order. The details of the files kept as reference are saved in a binary file. The binary file stores the serial number, date, time, names of the users and the name of the text file for a particular conversation. Users can read previous chats based on date-time enquiries. The program follows a menu driven approach where users can either chat or read chats.
 
+> Developed by Samarthya Jha and Shivam Bairoliya
+
 ### Note- The code was developed in Turbo C++ and will work only in Turbo C++. I am trying to make a new version that works with Visual C++.
